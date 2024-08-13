@@ -7,7 +7,7 @@
 <br />
 <br />
 
- <h2 align="center"> Cognifyz Internship(AI) </h2>
+ <h2 align="center"> Cognifyz Internship(ML) </h2>
    
 </div>
 <br />
